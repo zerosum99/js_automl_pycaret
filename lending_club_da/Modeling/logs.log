@@ -1433,3 +1433,21 @@ AttributeError: 'RidgeClassifier' object has no attribute 'predict_proba'
                        min_samples_split=2, min_weight_fraction_leaf=0.0,
                        random_state=664, splitter='best')
 2023-08-11 12:45:29,350:INFO:tune_model() successfully completed......................................
+2023-08-11 14:02:36,648:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
+2023-08-11 14:03:45,993:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
+2023-08-11 14:03:54,657:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
+2023-08-11 14:04:02,458:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
+2023-08-11 14:04:10,231:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
+2023-08-11 14:04:18,015:WARNING:/Users/a06411/opt/anaconda3/envs/pycaret/lib/python3.9/site-packages/lightgbm/engine.py:172: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+
